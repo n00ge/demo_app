@@ -10,7 +10,7 @@ group :production do
   gem "pg"
 end
 
-gem 'sqlite3', '1.3.3', :group => :development
+gem 'sqlite3', :group => :development
 
 
 # Gems used only for assets and not required
